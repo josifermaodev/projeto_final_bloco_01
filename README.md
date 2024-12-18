@@ -32,6 +32,7 @@ O sistema permite cadastrar, listar, consultar, atualizar e deletar produtos, co
 
 ## 📂 **Estrutura do Projeto**
 
+```
 src/
 │
 ├── models/              
@@ -49,6 +50,7 @@ src/
 │   ├── Menu.ts              # Menu principal do sistema
 │
 └── README.md                # Documentação do projeto
+```
 
 
 ---
