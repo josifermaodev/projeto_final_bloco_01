@@ -18,8 +18,7 @@ export function main(){
 
     // Teste de dados brinquedos
     produto.cadastrar(new Brinquedos(produto.gerarId(), "Chalesco Sapo para Cães", 2, 43.99, 25, "Pelucia"))
-    produto.cadastrar(new Brinquedos(produto.gerarId(), "Jambo Mordedor", 2, 10.49, 25, "Corda"))
-    produto.cadastrar(new Brinquedos(produto.gerarId(), "Jambo Mordedor", 2, 10.49, 25, "Corda"))
+    produto.cadastrar(new Brinquedos(produto.gerarId(), "Jambo Mordedor", 2, 24.49, 25, "Corda"))
 
     let continuar = true;
     while(continuar){
